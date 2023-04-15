@@ -8,14 +8,14 @@ Before contributing, please ensure that you have read and agree to the code of c
 
 To contribute, please follow these steps:
 
-- Fork this repository.
-- Clone your forked repository to your local machine.
-- Create a new branch from the main branch.
-- Add or modify Dockerfiles as needed, ensuring that they follow best practices and adhere to any language or environment-specific requirements.
-- Test your Dockerfiles to ensure that they work as expected.
-- Update the README.md file with any relevant information about your changes.
-- Commit your changes and push them to your forked repository.
-- Open a pull request to the main branch of this repository.
+1. Fork this **repository**.
+2. Clone your **forked** repository to your **local machine**.
+3. Create a new branch from the **main** branch.
+4. Add or modify **Dockerfiles** as needed, ensuring that they follow best practices and adhere to any language or environment-specific requirements.
+5. **Test** your Dockerfiles to ensure that they work as expected.
+6. Update the **README.md** file with any relevant information about your changes.
+7. Commit your changes and push them to your **forked** repository.
+8. Open a pull request to the **main** branch of this repository.
 
 ## Guidelines
 
