@@ -4,8 +4,6 @@ Thank you for considering contributing to this repository! The following guideli
 
 ## Contributing
 
-Before contributing, please ensure that you have read and agree to the code of conduct.
-
 To contribute, please follow these steps:
 
 1. Fork this **repository**.
